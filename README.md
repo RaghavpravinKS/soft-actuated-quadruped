@@ -1,2 +1,2 @@
-# quadraped
-Code repo for quadraped project
+# Soft Actuated Quadruped
+File repository for the project
