@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\ragha\Documents\Altium\AD23\Projects\Try1\Project Outputs for Try1\Pick Place\Pick Place for Try1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12-08-23
+Time:       15:48
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                     
+J9         PPTC081LFBN-RC         TopLayer 8POS_FEMALE_HEADER     3914.961      1867.125      270      "Female, 8C, Straight, .100"CC; 3.20mm Tail, No Mt. 100u" Tin; PBT, Phos Bronze, 105 C"         
+J8         M20-9990246            TopLayer 2x1_MALE_HEADER        173.229       2049.013      180      "2.54mm (0.1") Pitch SIL Vertical PC Tail Pin Header, 6.1mm mating pin height, tin, 2 contacts" 
+J13        "4 POS Female Header"  TopLayer SULLINS_PPTC041LFBN-RC 2928.149      259.843       0        "CONN HDR 4POS 0.1 GOLD PCB"                                                                    
+J12        10-89-7061             TopLayer 3X2_MALE_HEADER        5476.772      327.953       90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J11        10-89-7061             TopLayer 3X2_MALE_HEADER        307.087       264.567       90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J10        10-89-7061             TopLayer 3X2_MALE_HEADER        4425.196      1035.236      90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J7         "4 POS Female Header"  TopLayer SULLINS_PPTC041LFBN-RC 5770.667      2044.291      90       "CONN HDR 4POS 0.1 GOLD PCB"                                                                    
+J6         "19 POS Female Header" TopLayer ESP_32                 2275.591      1807.873      90       "CONN HDR 19POS 0.1 TIN PCB"                                                                    
+J5         10-89-7061             TopLayer 3X2_MALE_HEADER        4436.614      2755.709      90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J4         "4 POS Female Header"  TopLayer SULLINS_PPTC041LFBN-RC 3430.119      2566.927      180      "CONN HDR 4POS 0.1 GOLD PCB"                                                                    
+J3         10-89-7061             TopLayer 3X2_MALE_HEADER        307.087       3664.567      90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J2         10-89-7061             TopLayer 3X2_MALE_HEADER        4975.001      3637.992      90       "CONN HEADER VERT 6POS 2.54MM"                                                                  
+J1         "4 POS Female Header"  TopLayer SULLINS_PPTC041LFBN-RC 2682.085      3816.929      180      "CONN HDR 4POS 0.1 GOLD PCB"                                                                    
+4          CF1/2CT52R103J         TopLayer 10K_1/2W               3621.065      3128.936      90       "Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes"                                        
+3          CF1/2CT52R103J         TopLayer 10K_1/2W               3502.953      3128.936      90       "Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes"                                        
+2          CF1/2CT52R103J         TopLayer 10K_1/2W               3384.843      3128.936      90       "Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes"                                        
+1          CF1/2CT52R103J         TopLayer 10K_1/2W               3259.843      3128.936      90       "Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes"                                        

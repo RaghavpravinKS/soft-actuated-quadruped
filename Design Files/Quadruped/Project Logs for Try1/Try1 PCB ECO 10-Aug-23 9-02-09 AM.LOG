@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=J8 NewDesignator=J10
+Change Component Designator: OldDesignator=J9 NewDesignator=J11
+Change Component Designator: OldDesignator=J10 NewDesignator=J12
+Change Component Designator: OldDesignator=J11 NewDesignator=J13
+Added Component: Designator=J9(8POS_FEMALE_HEADER)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/PPTC081LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/PPTC081LFBN-RC-Sullins-datasheet-41308905.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.65, 10=0.565, 400=0.42525, 800=0.3645, 1200=0.33413, 5200=0.29363, 10000=0.2925 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "25448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S7006-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Change Net Name : Old Net Name=NetJ10_5 New Net Name=NetJ12_5
+Added Pin To Net: NetName=NetJ6_14 Pin=J6-14
+Added Pin To Net: NetName=NetJ6_14 Pin=J9-4
+Added Net: Name=NetJ6_14
+Added Pin To Net: NetName=NetJ6_15 Pin=J6-15
+Added Pin To Net: NetName=NetJ6_15 Pin=J9-5
+Added Net: Name=NetJ6_15
+Added Pin To Net: NetName=NetJ6_19 Pin=J6-19
+Added Pin To Net: NetName=NetJ6_19 Pin=J9-2
+Added Net: Name=NetJ6_19

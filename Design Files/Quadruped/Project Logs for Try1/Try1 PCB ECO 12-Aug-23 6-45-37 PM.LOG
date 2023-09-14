@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ3_6 Pin=J6-28
+Removed Pin From Net: NetName=NetJ3_5 Pin=J6-29
+Change Component Description : Designator=1 Old Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes New Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes |Koa CF1/2CT52R103J
+Change Component Description : Designator=2 Old Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes New Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes |Koa CF1/2CT52R103J
+Change Component Description : Designator=3 Old Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes New Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes |Koa CF1/2CT52R103J
+Change Component Description : Designator=4 Old Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes New Description=Res, 10K, 0.5W, Axial, Carbon Film Rohs Compliant: Yes |Koa CF1/2CT52R103J
+Added Pin To Net: NetName=NetJ3_5 Pin=J6-28
+Added Pin To Net: NetName=NetJ3_6 Pin=J6-29
